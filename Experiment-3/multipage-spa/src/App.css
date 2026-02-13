@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #0f0c29;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 15px 40px;
+  display: flex;
+  gap: 30px;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(12px);
+  z-index: 1000;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: 1px;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #43cea2;
+}
+
+/* PAGE TRANSITION */
+.page {
+  animation: pageFade 0.8s ease;
+  padding-top: 80px;
+}
+
+@keyframes pageFade {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

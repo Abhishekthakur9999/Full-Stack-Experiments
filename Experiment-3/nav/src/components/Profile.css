@@ -1,0 +1,128 @@
+.profile-container {
+  min-height: 100vh;
+  background: radial-gradient(circle at top, #ff512f, #dd2476);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  animation: fadeIn 1.2s ease-in-out;
+}
+
+.profile-card {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(18px);
+  width: 400px;
+  padding: 30px;
+  border-radius: 25px;
+  box-shadow: 0 30px 70px rgba(0, 0, 0, 0.45);
+  animation: slideUp 1s ease;
+  transition: transform 0.4s ease;
+}
+
+.profile-card:hover {
+  transform: translateY(-10px) scale(1.02);
+}
+
+/* ===== TITLE ===== */
+.profile-card h2 {
+  text-align: center;
+  font-size: 28px;
+  background: linear-gradient(90deg, #fdfbfb, #ebedee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 15px;
+}
+
+.section-title {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #fff;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+/* ===== PROJECTS ===== */
+.project-list {
+  padding: 0;
+}
+
+.project-list li {
+  list-style: none;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  padding: 12px;
+  border-radius: 14px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.project-list li:hover {
+  transform: translateX(10px);
+  background: linear-gradient(135deg, #43cea2, #185a9d);
+}
+
+/* ===== CONTACT ===== */
+.contact-info p {
+  background: rgba(255, 255, 255, 0.85);
+  padding: 12px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  transition: transform 0.3s ease;
+}
+
+.contact-info p:hover {
+  transform: scale(1.05);
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 480px) {
+  .dashboard-card,
+  .profile-card {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .profile-img {
+    width: 140px;
+    height: 140px;
+  }
+}
+/* ===== NAVIGATION BUTTON ===== */
+.nav-btn {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 12px 26px;
+  border-radius: 30px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.nav-btn:hover {
+  transform: scale(1.1);
+  background: linear-gradient(135deg, #43cea2, #185a9d);
+}
