@@ -81,7 +81,7 @@ This proves that route components are loaded only when accessed.
 
 After clicking "Home", the Home page is loaded dynamically.
 
-<img width="1600" height="822" alt="image" src="https://github.com/user-attachments/assets/f496609e-6114-4f40-93b7-abbd188d8f5a" />
+<img width="1600" height="655" alt="image" src="https://github.com/user-attachments/assets/28fff2ff-151d-4dd5-904d-236616827d1e" />
 
 
 Example Description:
@@ -109,7 +109,7 @@ This confirms Suspense fallback is working.
 
 After clicking "About":
 
-<img width="1600" height="655" alt="image" src="https://github.com/user-attachments/assets/1676abf6-03c7-4053-aca6-3a1a8d25f77d" />
+<img width="1600" height="672" alt="image" src="https://github.com/user-attachments/assets/987abacc-5a7d-47b8-98b0-1ed18b82c0fe" />
 
 
 - Explains experiment
@@ -121,7 +121,8 @@ After clicking "About":
 
 After clicking "Dashboard":
 
-<img width="1600" height="672" alt="image" src="https://github.com/user-attachments/assets/886a9deb-0d51-42f0-8eff-b2cb5e4f1ba7" />
+<img width="1600" height="822" alt="image" src="https://github.com/user-attachments/assets/564eefe0-4b99-4226-bef3-2d3012b02d74" />
+
 
 
 - Displays Skills section
