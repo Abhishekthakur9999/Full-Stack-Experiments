@@ -1,16 +1,100 @@
-# React + Vite
+Handling Forms Using Controlled Components (React)
+🎯 Aim
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To create and handle forms in a frontend application using Controlled Components in React.
 
-Currently, two official plugins are available:
+🛠️ Software Requirements
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Node.js
 
-## React Compiler
+React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+VS Code
 
-## Expanding the ESLint configuration
+Web Browser
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📖 Theory
+
+Controlled components are React components in which form data is handled by the component’s state using useState.
+
+In controlled components:
+
+Form input values are stored inside state.
+
+Every change is handled using onChange event.
+
+The form is submitted using an event handler.
+
+React has full control over user input.
+
+This provides:
+
+Better validation
+
+Predictable behavior
+
+Centralized data handling
+
+🚀 Features Implemented
+
+First Name (Text Input)
+
+Last Name (Text Input)
+
+Date of Birth (Date Picker)
+
+Gender (Radio Buttons)
+
+Skills (Checkboxes)
+
+Address (Textarea)
+
+State (Dropdown)
+
+Submit & Cancel Button
+
+Alert displaying all entered details
+
+🎨 UI Highlights
+
+Animated Gradient Background
+
+Glassmorphism Card Effect
+
+Hover Animations
+
+Input Glow Effects
+
+Smooth Transitions
+
+Professional Layout
+
+📌 Key Concepts Used
+
+React Functional Components
+
+useState Hook
+
+Controlled Components
+
+Event Handling
+
+Conditional Rendering
+
+CSS Animations
+
+Flexbox Layout
+
+📊 Result
+
+The form successfully handles user input using controlled components in React and displays submitted data through an alert message.
+
+## Screenshots :
+<img width="1913" height="899" alt="Screenshot 2026-02-20 105828" src="https://github.com/user-attachments/assets/93418f54-7bcf-404d-9ea7-51d281a042c6" />
+
+<img width="1892" height="898" alt="Screenshot 2026-02-20 110211" src="https://github.com/user-attachments/assets/e53fd784-52d6-4928-a7f9-9b22b9c9f78d" />
+
+<img width="1913" height="916" alt="Screenshot 2026-02-20 110230" src="https://github.com/user-attachments/assets/6ef2cfd9-f548-42a8-9c07-2adae013499d" />
+
+
+Advanced CSS with animated background & glassmorphism UI
