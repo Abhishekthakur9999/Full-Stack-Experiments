@@ -1,6 +1,6 @@
 **Client-Side Form Validation** 👇
 
-# 📝 Experiment–2: Client-Side Form Validation (React)
+# 📝 Experiment–6.2: Client-Side Form Validation (React)
 
 ---
 
