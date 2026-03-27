@@ -1,7 +1,7 @@
 SERVER RUNNING STATUS:
 <img width="1466" height="564" alt="image" src="https://github.com/user-attachments/assets/9554388f-79bc-4e30-9518-695e5921112e" />
 GET COMMAND:
-<img width="1116" height="817" alt="image" src="https://github.com/user-attachments/assets/fb0c4166-0f96-40ca-963b-c92d8adc073c" />
+<img width="846" height="653" alt="image" src="https://github.com/user-attachments/assets/6b178da8-c2a9-4f78-bcf0-1590233ce1f4" />
 POST COMMAND:
 <img width="973" height="544" alt="image" src="https://github.com/user-attachments/assets/70b2749a-392f-4601-b717-6621f292e417" />
 PUT COMMAND:
