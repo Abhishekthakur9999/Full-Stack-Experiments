@@ -5,6 +5,6 @@ GET COMMAND:
 POST COMMAND:
 <img width="804" height="467" alt="image" src="https://github.com/user-attachments/assets/ecaaa84d-e405-46a0-85ae-60530e98fa76" />
 PUT COMMAND:
-<img width="908" height="429" alt="image" src="https://github.com/user-attachments/assets/f42da5a1-c5e9-4b47-a378-ac71a571dec0" />
+<img width="650" height="312" alt="image" src="https://github.com/user-attachments/assets/1632cf16-e966-42b5-a0ff-c2320e918482" />
 DELETE COMMAND:
 <img width="837" height="319" alt="image" src="https://github.com/user-attachments/assets/d493eb1e-cccf-48c1-8a57-8e00bbb091eb" />
