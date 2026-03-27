@@ -3,7 +3,7 @@ SERVER RUNNING STATUS:
 GET COMMAND:
 <img width="846" height="653" alt="image" src="https://github.com/user-attachments/assets/6b178da8-c2a9-4f78-bcf0-1590233ce1f4" />
 POST COMMAND:
-<img width="973" height="544" alt="image" src="https://github.com/user-attachments/assets/70b2749a-392f-4601-b717-6621f292e417" />
+<img width="804" height="467" alt="image" src="https://github.com/user-attachments/assets/ecaaa84d-e405-46a0-85ae-60530e98fa76" />
 PUT COMMAND:
 <img width="908" height="429" alt="image" src="https://github.com/user-attachments/assets/f42da5a1-c5e9-4b47-a378-ac71a571dec0" />
 DELETE COMMAND:
