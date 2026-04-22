@@ -1,4 +1,4 @@
-package controller;
+package com.AML2B.Rest_API.controller;
 
 import java.util.List;
 

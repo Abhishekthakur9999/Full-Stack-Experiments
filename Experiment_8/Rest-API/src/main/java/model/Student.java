@@ -1,4 +1,4 @@
-package model;
+package com.AML2B.Rest_API.model.Student;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
