@@ -134,6 +134,9 @@ SockJS ensures:
 
 WebSocket enables efficient real-time communication between client and server. By combining React with WebSocket (SockJS + STOMP), we can build fast, scalable, and interactive chat applications.
 
+<img width="1904" height="561" alt="image" src="https://github.com/user-attachments/assets/ad7df2a7-6523-4c44-bb6c-03a0c7120652" />
+
 <img width="1044" height="608" alt="Screenshot 2026-04-22 125426" src="https://github.com/user-attachments/assets/9e19d72a-27dc-4783-9397-2bcd7ddb6764" />
+
 <img width="1384" height="792" alt="Screenshot 2026-04-22 130125" src="https://github.com/user-attachments/assets/aa94608a-dd99-4d97-8484-733642177c22" />
 
